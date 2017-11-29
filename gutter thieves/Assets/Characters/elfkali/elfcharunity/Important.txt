@@ -1,0 +1,36 @@
+Character elf with animations
+----------------------------
+*Idle
+*Attack
+*Catch(idea for grabbing crown if up on high place)
+*Jogging (it's a silly run)
+*Death
+
+
+---------------------------------------------------------
+**To get to animations**
+
+Assets
+->animations elf
+   ->char with animations
+     ->unity animations
+
+***The animations should be within that last folder
+
+1. You can use an Animator controller or what you are use to 
+   when it comes to making the animations move. I was testing
+   the animations out with part of the animator controller 
+   to see if they are functioning.  
+
+2.  IF the animations go wrong OR if you would like to add
+    more don't be afraid to ask.  I would be happy to help :)
+    
+
+-----------------------------------------------------------------
+If you want to use animator controller or so I have some cool videos to share
+  You guys might find it neat
+
+https://www.youtube.com/watch?v=BEIaakl9vJE
+
+https://www.youtube.com/watch?v=nt55pxA7Snk
+
