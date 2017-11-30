@@ -1,4 +1,4 @@
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 One Paragraph of project description goes here
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -23,18 +23,18 @@ Give an example
 Deployment
 Add additional notes about how to deploy this on a live system
 Built With
-* Dropwizard - The web framework used
-* Maven - Dependency Management
-* ROME - Used to generate RSS Feeds
+* DropwizardÂ - The web framework used
+* MavenÂ - Dependency Management
+* ROMEÂ - Used to generate RSS Feeds
 Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please readÂ CONTRIBUTING.mdÂ for details on our code of conduct, and the process for submitting pull requests to us.
 Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+We useÂ SemVerÂ for versioning. For the versions available, see theÂ tags on this repository.
 Authors
-* Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+* Billie ThompsonÂ -Â Initial workÂ -Â PurpleBooth
+See also the list ofÂ contributorsÂ who participated in this project.
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see theÂ LICENSE.mdÂ file for details
 Acknowledgments
 * Hat tip to anyone who's code was used
 * Inspiration
