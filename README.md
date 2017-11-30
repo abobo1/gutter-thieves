@@ -43,5 +43,31 @@ The **Delete the driver software for this device** option removes the package fr
 7.	If you are prompted to restart the computer, the removal is not completed and the device might continue to function until the computer is restarted.
 8.	Plug in the device and then restart the computer. The device will be detected and reinstalled after Windows restarts. Follow any instructions on-screen to complete installation.
 
+**Installing**
+To open project
+1.	Clone or download project in Github
+2.	Once downloaded.  Find the file folder and upzip it.
+3.	Go into that folder, then to folder that says gutter thieves
+4.	Go to bottom of that folder and click the one that says test.  It is an application file
+5.	If it does not play and has issue with Unity.  Download Unity Webplayer.  Link https://unity3d.com/webplayer
+6.	Once started make sure that settings for the game are high and that the window box is checked.  If not, it can be a pain to get out of when you want to exit.  
+7.	From there the game will start!
+**How to Use Controls**
+**Deployment**
+This game was tested out on Windows 10, 8, but other test will be done on Apple products, Android, and Linux soon.
+**Built With**
+•	This game was made using Unity
+**Authors**
+•	**Allie Field** - Game Art, Character Animation, Character Design, Level Layout, Game Object Design
+•	**Kane Stapler** - Game animator coder, Senior Level Programmer
+•	**Bobbie Wall** - Programmer for maze
+•	**Amberley Echols** - Character creator
+License
+This project is licensed under the GNU Affero General Public License v3.0
+- see the LICENSE.md file for details
+
+
+
+
 
 
