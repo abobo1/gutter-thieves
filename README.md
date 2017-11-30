@@ -52,17 +52,24 @@ To open project
 5.	If it does not play and has issue with Unity.  Download Unity Webplayer.  Link https://unity3d.com/webplayer
 6.	Once started make sure that settings for the game are high and that the window box is checked.  If not, it can be a pain to get out of when you want to exit.  
 7.	From there the game will start!
+
 **How to Use Controls**
+
 **Deployment**
 This game was tested out on Windows 10, 8, but other test will be done on Apple products, Android, and Linux soon.
+
 **Built With**
 •	This game was made using Unity
+
+
 **Authors**
 •	**Allie Field** - Game Art, Character Animation, Character Design, Level Layout, Game Object Design
 •	**Kane Stapler** - Game animator coder, Senior Level Programmer
 •	**Bobbie Wall** - Programmer for maze
 •	**Amberley Echols** - Character creator
-License
+
+
+**License**
 This project is licensed under the GNU Affero General Public License v3.0
 - see the LICENSE.md file for details
 
