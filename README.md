@@ -32,8 +32,10 @@ If the controller is not functioning you can go to link:
 2.	If the controller gives you problems. Try to uninstall the controller.
 **To do so**
 1.		Open **Device Manager**.
+![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/device%20manage.png)
 2.	Double-click the type of device that you want to uninstall.
 3.	Right-click the specific device you want, and then click **Uninstall**. You can also double-click the device, and then on the **Driver** tab, click **Uninstall**.
+![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/unistall.jpg)
 4.	In the **Confirm Device Removal** page, select **Delete the driver software for this device** if you also want to remove the device driver package from the driver store. .
 The **Delete the driver software for this device** option removes the package from the driver store.
 5.	Click **OK** to complete the uninstall process.
