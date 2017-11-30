@@ -7,7 +7,7 @@ To open project
 1.	Clone or download project in Github
 2.	Once downloaded.  Find the file folder and upzip it.
 3.	Go into that folder, then to folder that says gutter thieves
-4.	Go to bottom of that folder and click the one that says test.  It is an application file
+4.	Go to bottom of that folder and click the one that says test.  It is an application file      ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image/gtfont.jpg)
 5.	If it does not play and has issue with Unity.  Download Unity Webplayer.  Link https://unity3d.com/webplayer
 6.	Once started make sure that settings for the game are high and that the window box is checked.  If not, it can be a pain to get out of when you want to exit.  
 7.	From there the game will start!
