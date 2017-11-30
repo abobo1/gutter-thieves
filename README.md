@@ -3,17 +3,27 @@
 An action pack RPG Game where you guessed it! You are a thief!  Your goal is to steal the crown and take it back to your kingdom.  There are two kingdoms which are the Gylas, the half elf kingdom, and the Drids, the drawf kingdom.  The goal of the game is to go behind the throne of the lazy, fussy, king and steal the precious crown of the kingdom of Kallid.  Once you have the crown race through the maze and try to escape the though Kallids knight guards and your opponent!  If you make it past you win!!! But if you are caught you must start again!  Good luck and may the blessing be upon you!
 
 **Getting Started**
+
 To open project
 1.	Clone or download project in Github
 2.	Once downloaded.  Find the file folder and upzip it.
 3.	Go into that folder, then to folder that says gutter thieves
-4.	Go to bottom of that folder and click the one that says test.  It is an application file      ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/open.png)
+4.	Go to bottom of that folder and click the one that says test.  It is an application file 
+
+![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/open.png)
+
 5.	If it does not play and has issue with Unity.  Download Unity Webplayer.  Link https://unity3d.com/webplayer
+
 ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/unity%20player.png)
+
 6.	Once started make sure that settings for the game are high and that the window box is checked.  If not, it can be a pain to get out of when you want to exit.  
+
+![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/window%20key.png)
+
 7.	From there the game will start!
 
 **Prerequisites**
+
 What things you need to install the software and how to install them
 Give examples
 Installing
