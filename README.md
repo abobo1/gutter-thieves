@@ -2,7 +2,7 @@
 
 An action pack RPG Game where you guessed it! You are a thief!  Your goal is to steal the crown and take it back to your kingdom.  There are two kingdoms which are the Gylas, the half elf kingdom, and the Drids, the drawf kingdom.  The goal of the game is to go behind the throne of the lazy, fussy, king and steal the precious crown of the kingdom of Kallid.  Once you have the crown race through the maze and try to escape the though Kallids knight guards and your opponent!  If you make it past you win!!! But if you are caught you must start again!  Good luck and may the blessing be upon you!
 
-Getting Started
+**Getting Started**
 To open project
 1.	Clone or download project in Github
 2.	Once downloaded.  Find the file folder and upzip it.
@@ -12,7 +12,7 @@ To open project
 6.	Once started make sure that settings for the game are high and that the window box is checked.  If not, it can be a pain to get out of when you want to exit.  
 7.	From there the game will start!
 
-Prerequisites
+**Prerequisites**
 What things you need to install the software and how to install them
 Give examples
 Installing
