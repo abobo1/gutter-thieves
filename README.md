@@ -44,6 +44,7 @@ The **Delete the driver software for this device** option removes the package fr
 8.	Plug in the device and then restart the computer. The device will be detected and reinstalled after Windows restarts. Follow any instructions on-screen to complete installation.
 
 **Installing**
+
 To open project
 1.	Clone or download project in Github
 2.	Once downloaded.  Find the file folder and upzip it.
@@ -55,21 +56,29 @@ To open project
 
 **How to Use Controls**
 
+
 **Deployment**
+
 This game was tested out on Windows 10, 8, but other test will be done on Apple products, Android, and Linux soon.
 
 **Built With**
+
 •	This game was made using Unity
 
 
 **Authors**
+
 •	**Allie Field** - Game Art, Character Animation, Character Design, Level Layout, Game Object Design
+
 •	**Kane Stapler** - Game animator coder, Senior Level Programmer
+
 •	**Bobbie Wall** - Programmer for maze
+
 •	**Amberley Echols** - Character creator
 
 
 **License**
+
 This project is licensed under the GNU Affero General Public License v3.0
 - see the LICENSE.md file for details
 
