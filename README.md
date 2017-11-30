@@ -28,6 +28,7 @@ What things you need to install or may need to install for the game is the unity
 Another thing you can have if you desire.  A controller.  The recommended one is Xbox 360 controller that fits for a Windows PC.  The one used for testing is the Rockcandy controller.
 If the controller is not functioning you can go to link: 
 1.	Go to https://www.microsoft.com/accessories/en-gb/d/xbox-360-controller-for-windows and install driver
+![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/xbox%20360%20driver.png)
 2.	If the controller gives you problems. Try to uninstall the controller.
 **To do so**
 1.		Open **Device Manager**.
