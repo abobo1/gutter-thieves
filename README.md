@@ -1,10 +1,7 @@
 
-| ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image/gtfont.jpg)                                    |
-| ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/knight-2651814_960_720.png)        |
-|:---------------------------------------------------------------------------------------------------------------------:|
-|                                                                                                                       |
-|                                                                                                                       |
-|:---------------------------------------------------------------------------------------------------------------------:|
+ ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image/gtfont.jpg)                                    
+ ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/knight-2651814_960_720.png)     
+  ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/stonewall.jpg)    
 
 An action pack RPG Game where you guessed it! You are a thief!  Your goal is to steal the crown and take it back to your kingdom.  There are two kingdoms which are the Gylas, the half elf kingdom, and the Drids, the drawf kingdom.  The goal of the game is to go behind the throne of the lazy, fussy, king and steal the precious crown of the kingdom of Kallid.  Once you have the crown race through the maze and try to escape the though Kallids knight guards and your opponent!  If you make it past you win!!! But if you are caught you must start again!  Good luck and may the blessing be upon you!
 
