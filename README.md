@@ -1,5 +1,6 @@
-<!--background: #c5f015 -->
-<!-- color: #c5f015 -->
+<kbd>
+  <img src="https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=89263488">
+</kbd>
 ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image/gtfont.jpg)
 ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/knight-2651814_960_720.png)
 
