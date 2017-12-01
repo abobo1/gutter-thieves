@@ -73,7 +73,7 @@ This game was tested out on Windows 10, 8, but other test will be done on Apple 
 
 •	**Kane Stapler** - Game animator coder, Senior Level Programmer
 
-•	**Bobbie Wall** - Programmer for maze
+•	**Bobbie Hoskins** - Programmer for maze
 
 •	**Amberley Echols** - Character creator
 
