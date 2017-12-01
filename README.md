@@ -5,6 +5,8 @@
 
 An action pack RPG Game where you guessed it! You are a thief!  Your goal is to steal the crown and take it back to your kingdom.  There are two kingdoms which are the Gylas, the half elf kingdom, and the Drids, the drawf kingdom.  The goal of the game is to go behind the throne of the lazy, fussy, king and steal the precious crown of the kingdom of Kallid.  Once you have the crown race through the maze and try to escape the though Kallids knight guards and your opponent!  If you make it past you win!!! But if you are caught you must start again!  Good luck and may the blessing be upon you!
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=8yooFlQGw4E&feature=youtu.be)
+
 **Getting Started**
 
 To open project
@@ -66,6 +68,9 @@ To open project
 **Keyboard**
 
 ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/keyboard%20control.png)
+
+
+**Game Images**
 
 
 
