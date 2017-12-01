@@ -1,3 +1,4 @@
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
 ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image/gtfont.jpg)
 ![alt text](https://github.com/abobo1/gutter-thieves/blob/master/image%20of%20game/knight-2651814_960_720.png)
 
